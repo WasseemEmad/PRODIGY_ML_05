@@ -15,9 +15,11 @@ Saved the best-performing model based on validation accuracy during training.
 ## **Dataset**
 The original Food101 dataset contains 101 categories, but this project uses only three categories for simplicity:
 
-Label 1 is apple_pie
-Label 2 is baby_back_ribs
-Label 3 is baklava
+Label 1 is apple_pie.
+
+Label 2 is baby_back_ribs.
+
+Label 3 is baklava.
 
 Each category contains a balanced number of images, preprocessed for training.
 
